@@ -13,4 +13,4 @@ eureka:
     lease-expiration-duration-in-seconds: 2  # 发呆时间，即服务续约到期时间（缺省为90s）
 
 config:
-  info: 我是配置信息呀呀呀呀呀zzz猪猪猪zzzz
+  info: 我是配置信息呀呀呀呀呀zzz猪猪猪zzz猪猪猪
